@@ -25,7 +25,7 @@ My name is Idhant Dabral, aka Starman, a game developer witha  focus on engaging
 - Email me: starmandev@gmail.com
 - Itch.io Page: Under Construction ATM :moyai: ...
 
-##cheers! 🍻
+##### cheers! 🍻
 <!---
 St4rman/St4rman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
