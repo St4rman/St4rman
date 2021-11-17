@@ -12,7 +12,7 @@
 
 # 👋 Heya, I’m Starman </head>
 #### I MAKE EXPRIENCES WORTH REMEMBERING.
-My name is Idhant Dabral, aka Starman, a game developer witha  focus on engaging and user-friendly applications. Currently investing in myself. Other than nerding out, hobbies include art, music production, gaming and casual writing.
+My name is Idhant Dabral, aka Starman, a game developer with a  focus on engaging and user-friendly applications. Currently investing in myself. Other than nerding out, hobbies include art, music production, gaming and casual writing.
 
 ### Currently, I've been working on--
 
