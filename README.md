@@ -13,7 +13,7 @@ My name is Idhant Dabral, aka Starman, a game developer with a  focus on engagin
 |Procedural Grass|OpenGL noise based foliage Generation|Finished|<a href="https://www.youtube.com/watch?v=Eufx7EyKU48&feature=youtu.be">Youtube</a>|
 |HellRunners|Multiplayer Speedrunning Grappling FPS|Finsihed|<a href="https://www.youtube.com/watch?v=kZ5Tb43DsGU&feature=youtu.be">Youtube</a>|
 | 7Hearts| A Wave Clearing SinglePlayer FPS. Boom. :gun:| Finished | <a href="https://starmandev.itch.io/brotheon?secret=i7POxEuKa3G0ugXXzD0H9hwZ3VY"> Itch.io</a>|
-| A Boy And A Ghost| Spooky platformer in 48 hours. 👻| Completed|<a href="https://starmandev.itch.io/a-boy-and-his-ghost">Itch.io</a> |
+| A Boy And A Ghost| Spooky platformer in 48 hours. 👻| Finished |<a href="https://starmandev.itch.io/a-boy-and-his-ghost">Itch.io</a> |
 
 ### Contact me
 - Email me: starmandev@gmail.com
