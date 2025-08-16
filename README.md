@@ -3,13 +3,13 @@
 
 # 👋 Heya, I’m Starman </head>
 #### I make video games
-My name is Idhant Dabral, aka Starman, a game developer with a  focus on engaging and user-friendly applications. Currently investing in myself. Other than nerding out, hobbies include art, music production, gaming and casual writing.
+My name is Idhant Dabral, aka Starman, a game developer with a  focus on engaging and user-friendly applications. Currently investing in myself. Other than nerding out, hobbies include art, gaming and casual writing.
 
 ### Currently, I've been working on: 
 
 | Name |Description| Status | URL |
 | ---- | -------| ----|----|
-|Project FS | souls borne AI combat recreated | Finished | <a HREF="https://youtu.be/aRxZbhFGuqA"> DevLog </a> |
+|Project FS | souls borne AI combat recreated | Finished | <a HREF="https://youtu.be/aRxZbhFGuqA"> DevLog Video </a> |
 |Procedural Grass|OpenGL noise based foliage Generation|Finished|<a href="https://www.youtube.com/watch?v=Eufx7EyKU48&feature=youtu.be">Youtube</a>|
 |HellRunners|Multiplayer Speedrunning Grappling FPS|Finsihed|<a href="https://www.youtube.com/watch?v=kZ5Tb43DsGU&feature=youtu.be">Youtube</a>|
 | 7Hearts| A Wave Clearing SinglePlayer FPS. Boom. :gun:| Finished | <a href="https://starmandev.itch.io/brotheon?secret=i7POxEuKa3G0ugXXzD0H9hwZ3VY"> Itch.io</a>|
